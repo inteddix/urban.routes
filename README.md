@@ -13,8 +13,8 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: En este sprint, aprendí a realizar pruebas de humo y regresión para asegurarme de que las funcionalidades principales de la aplicación no se vean afectadas por cambios recientes. También aprendí a documentar y comunicar los errores encontrados de manera efectiva.
 
 - **Archivos**:
-  - [Informe de Pruebas de Humo](reports/sprint1.pdf)
-  - [Informe de Pruebas de Regresión](reports/sprint1.pdf)
+  - [Informe de Pruebas de Humo](sprint1.pdf)
+  - [Informe de Pruebas de Regresión](sprint1.pdf)
 
 ## Sprint 2: 16.er Grupo
 - **Habilidades adquiridas**:
