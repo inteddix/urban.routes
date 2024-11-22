@@ -25,9 +25,9 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: En este sprint, el enfoque fue en el análisis de requisitos y el diseño de pruebas. Aprendí a identificar las necesidades del cliente y diseñar pruebas que cubran todos los escenarios relevantes. También creé casos de prueba detallados para evaluar la funcionalidad del sistema.
 
 - **Archivos**:
-  - [Análisis de Requisitos](reports/sprint2.pdf)
-  - [Diseño de Pruebas](reports/sprint2.pdf)
-  - [Casos de Prueba](reports/sprint2.pdf)
+  - [Análisis de Requisitos](sprint2.pdf)
+  - [Diseño de Pruebas](sprint2.pdf)
+  - [Casos de Prueba](sprint2.pdf)
 
 ## Sprint 3: 16.er Grupo
 - **Habilidades adquiridas**:
@@ -39,8 +39,8 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 
 - **Archivos**:
   - [Informe de Seguimiento de Bugs](sprint3.pdf)
-  - [Informe Jira](reports/sprint3.pdf)
-  - [Pruebas de UI](reports/sprint3.pdf)
+  - [Informe Jira](sprint3.pdf)
+  - [Pruebas de UI](sprint3.pdf)
 
 ## Sprint 4: 16.er Grupo
 - **Habilidades adquiridas**:
@@ -50,8 +50,8 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: En este sprint, se aprendieron pruebas de servicios web mediante el protocolo HTTP y cómo usar Postman para realizar pruebas de API. Esto permitió verificar que las respuestas de las APIs sean correctas y que los endpoints funcionen adecuadamente.
 
 - **Archivos**:
-  - [Pruebas HTTP](reports/sprint4.pdf)
-  - [Pruebas de API con Postman](reports/sprint4.pdf)
+  - [Pruebas HTTP](sprint4.pdf)
+  - [Pruebas de API con Postman](sprint4.pdf)
 
 ## Sprint 5: 16.er Grupo
 - **Habilidades adquiridas**:
@@ -61,8 +61,8 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: En este sprint, se aprendió a realizar pruebas en aplicaciones móviles utilizando Android Studio. Esto incluyó la instalación y configuración de entornos de prueba, así como la ejecución de pruebas específicas para garantizar la calidad de las aplicaciones móviles.
 
 - **Archivos**:
-  - [Pruebas en Aplicaciones Móviles](reports/sprint5.pdf)
-  - [Android Studio](reports/sprint5.pdf)
+  - [Pruebas en Aplicaciones Móviles](sprint5.pdf)
+  - [Android Studio](sprint5.pdf)
 
 ## Estructura del Proyecto
 
