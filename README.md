@@ -13,8 +13,8 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: En este sprint, aprendí a realizar pruebas de humo y regresión para asegurarme de que las funcionalidades principales de la aplicación no se vean afectadas por cambios recientes. También aprendí a documentar y comunicar los errores encontrados de manera efectiva.
 
 - **Archivos**:
-  - [Informe de Pruebas de Humo](sprint1.pdf)
-  - [Informe de Pruebas de Regresión](sprint1.pdf)
+  - [Informe de Pruebas de Humo](sprint_1.pdf)
+  - [Informe de Pruebas de Regresión](sprint_1.pdf)
 
 ## Sprint 2: 16.er Grupo
 - **Habilidades adquiridas**:
@@ -25,9 +25,9 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: En este sprint, el enfoque fue en el análisis de requisitos y el diseño de pruebas. Aprendí a identificar las necesidades del cliente y diseñar pruebas que cubran todos los escenarios relevantes. También creé casos de prueba detallados para evaluar la funcionalidad del sistema.
 
 - **Archivos**:
-  - [Análisis de Requisitos](sprint2.pdf)
-  - [Diseño de Pruebas](sprint2.pdf)
-  - [Casos de Prueba](sprint2.pdf)
+  - [Análisis de Requisitos](sprint_2.pdf)
+  - [Diseño de Pruebas](sprint_2.pdf)
+  - [Casos de Prueba](sprint_2.pdf)
 
 ## Sprint 3: 16.er Grupo
 - **Habilidades adquiridas**:
@@ -38,9 +38,9 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: Este sprint se centró en el seguimiento de bugs y la gestión de incidencias usando Jira. Aprendí cómo crear, asignar y dar seguimiento a los errores. Además, se realizaron pruebas de UI (interfaz de usuario) para asegurar que la aplicación sea funcional y accesible para los usuarios.
 
 - **Archivos**:
-  - [Informe de Seguimiento de Bugs](sprint3.pdf)
-  - [Informe Jira](sprint3.pdf)
-  - [Pruebas de UI](sprint3.pdf)
+  - [Informe de Seguimiento de Bugs](sprint_3.pdf)
+  - [Informe Jira](sprint_3.pdf)
+  - [Pruebas de UI](sprint_3.pdf)
 
 ## Sprint 4: 16.er Grupo
 - **Habilidades adquiridas**:
@@ -68,12 +68,8 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 
 La estructura de este repositorio **`urban.routes`** está organizada de la siguiente manera:
 
-urban.routes/ ├── README.md ├── LICENSE ├── reports/ │ ├── "sprint1.pdf" │ ├── "sprint2.pdf" │ ├── "sprint3 .pdf" │ ├── "sprint4.pdf" │ ├── "sprint5.pdf" ├── data-analysis/ │ ├── sales-analysis.pdf │ ├── performance-metrics.pdf ├── jira-reports/ │ ├── jira-summary.pdf
+urban.routes/ ├── README.md ├── LICENSE ├── reports/ │ ├── "sprint_1.pdf" │ ├── "sprint_2.pdf" │ ├── "sprint_3 .pdf" │ ├── "sprint4.pdf" │ ├── "sprint5.pdf" 
 
-
-- **`reports/`**: Contiene los informes generados al final de cada sprint, documentando el progreso y los resultados obtenidos durante el proceso de prueba.
-- **`data-analysis/`**: Contiene los análisis de desempeño y métricas de ventas si es necesario.
-- **`jira-reports/`**: Contiene los resúmenes y reportes de los errores gestionados en Jira.
 
 ## Licencia
 
